@@ -1,4 +1,5 @@
 # Codsoft_python_3
+Task 3 (Contact Book) :
 This To-Do List application, built with Python's Tkinter, allows users to manage tasks efficiently. Users can add new tasks, update or delete existing ones, and clear the entire list. Tasks are displayed in a user-friendly interface, making it easy to organize daily activities and improve productivity with simple button interactions.
 
 It simplifies the process of organizing daily activities by allowing users to easily add new tasks, update existing ones, delete unwanted tasks, and even clear the entire list when needed. Each task is displayed clearly in a listbox, providing a visual overview of pending tasks, and all interactions—whether adding or modifying a task—are managed through intuitive buttons.
